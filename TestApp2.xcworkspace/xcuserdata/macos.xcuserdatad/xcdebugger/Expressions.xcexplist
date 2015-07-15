@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "TestApp2.ViewController.viewDidLoad (TestApp2.ViewController)() -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.ProfileSelectorViewController.cardSwipedLeft (TestApp2.ProfileSelectorViewController)(TestApp2.DraggableView) -&gt; ():ProfileSelectorViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.CheckInViewController.tableView (TestApp2.CheckInViewController)(ObjectiveC.UITableView, cellForRowAtIndexPath : ObjectiveC.NSIndexPath) -&gt; ObjectiveC.UITableViewCell:CheckInViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "nearbyPlaces">
+            </PersistentString>
+            <PersistentString
+               value = "nearbyPlaces[indexPath.row].photoReference">
+            </PersistentString>
+            <PersistentString
+               value = "arrSearchResults">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.CheckinSettingTableViewController.textFieldDidEndEditing (TestApp2.CheckinSettingTableViewController)(ObjectiveC.UITextField) -&gt; ():CheckinSettingTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "numRange2">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.ProfileSelectorViewController.saveConsideredDatas (TestApp2.ProfileSelectorViewController)() -&gt; ():ProfileSelectorViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.arrayConsideredDatas">
+            </PersistentString>
+            <PersistentString
+               value = "self.objConsideredDatas">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.GoogleDataProvider.fetchPlacesNearCoordinate (TestApp2.GoogleDataProvider)(C.CLLocationCoordinate2D, radius : Swift.Double, types : Swift.Array&lt;Swift.String&gt;, completion : (Swift.Array&lt;TestApp2.GooglePlace&gt;) -&gt; ()) -&gt; ():GoogleDataProvider.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "placesTask">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.CheckInCompleteViewController.removePhotoAtIndexPath (TestApp2.CheckInCompleteViewController)(ObjectiveC.NSIndexPath) -&gt; ():CheckInCompleteViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arrImages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.ImageSelectorViewController.viewDidLoad (TestApp2.ImageSelectorViewController)() -&gt; ():ImageSelectorViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "user">
+            </PersistentString>
+            <PersistentString
+               value = "dicInfoContents">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.AddPlaceViewController1.viewDidLoad (TestApp2.AddPlaceViewController1)() -&gt; ():AddPlaceViewController1.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "oriCoordForMap">
+            </PersistentString>
+            <PersistentString
+               value = "m_scrollView.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.ProfileSelectorViewController.cardSwipedRight (TestApp2.ProfileSelectorViewController)(TestApp2.DraggableView) -&gt; ():ProfileSelectorViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.arrayCheckins">
+            </PersistentString>
+            <PersistentString
+               value = "self.curIndexOfCheckin">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.ProfileSelectorViewController.getLikedUsers (TestApp2.ProfileSelectorViewController)() -&gt; ():ProfileSelectorViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "objLikedDatas">
+            </PersistentString>
+            <PersistentString
+               value = "objConsideredDatas">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.ProfileSelectorViewController.getRidOffDatas (TestApp2.ProfileSelectorViewController)() -&gt; ():ProfileSelectorViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.arrayCheckins">
+            </PersistentString>
+            <PersistentString
+               value = "object.objectId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.ChatViewController.(fetchFriends (TestApp2.ChatViewController) -&gt; () -&gt; ()).(closure #1).(closure #1):ChatViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.MenuViewController.prepareForSegue (TestApp2.MenuViewController)(ObjectiveC.UIStoryboardSegue, sender : Swift.Optional&lt;Swift.AnyObject&gt;) -&gt; ():MenuViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "curViewController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.GoogleDataProvider.(fetchPhotoFromReference (TestApp2.GoogleDataProvider) -&gt; (Swift.String, completion : (Swift.Optional&lt;ObjectiveC.UIImage&gt;) -&gt; ()) -&gt; ()).(closure #1):GoogleDataProvider.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "urlString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.CheckInCompleteViewController.imagePickerController (TestApp2.CheckInCompleteViewController)(Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIImagePickerController&gt;, didFinishPickingImage : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIImage&gt;, editingInfo : Swift.ImplicitlyUnwrappedOptional&lt;Swift.Dictionary&lt;ObjectiveC.NSObject, Swift.AnyObject&gt;&gt;) -&gt; ():CheckInCompleteViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arrImages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.DraggableView.setUser (TestApp2.DraggableView)(ObjectiveC.PFObject) -&gt; ():DraggableView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "objId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.CheckInViewController.searchWithPlaceCoordinates (TestApp2.CheckInViewController)() -&gt; ():CheckInViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.InfoViewController.viewWillAppear (TestApp2.InfoViewController)(Swift.Bool) -&gt; ():InfoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "object">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.AddPlaceViewController.scrollViewDidScroll (TestApp2.AddPlaceViewController)(ObjectiveC.UIScrollView) -&gt; ():AddPlaceViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tableView.tableHeaderView">
+            </PersistentString>
+            <PersistentString
+               value = "m_mapView">
+            </PersistentString>
+            <PersistentString
+               value = "initialFrame">
+            </PersistentString>
+            <PersistentString
+               value = "scrollView.contentOffset">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.CheckInCompleteViewController.btnSaveClicked (TestApp2.CheckInCompleteViewController)() -&gt; ():CheckInCompleteViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.ProfileSelectorViewController.(fetchMatches (TestApp2.ProfileSelectorViewController) -&gt; () -&gt; ()).(closure #1):ProfileSelectorViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.arrayCheckins">
+            </PersistentString>
+            <PersistentString
+               value = "objects">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.DraggableView.update (TestApp2.DraggableView)(ObjectiveC.PFObject) -&gt; ():DraggableView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.CheckInViewController.(searchWithPlaceCoordinates (TestApp2.CheckInViewController) -&gt; () -&gt; ()).(closure #1):CheckInViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arrLocations">
+            </PersistentString>
+            <PersistentString
+               value = "geoPoint">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.ProfileSelectorViewController.getRidOffDatas (TestApp2.ProfileSelectorViewController)(Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSArray&gt;) -&gt; ():ProfileSelectorViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.arrayConsideredDatas">
+            </PersistentString>
+            <PersistentString
+               value = "user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.SettingsViewController.fillUserDetails (TestApp2.SettingsViewController)() -&gt; ():SettingsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "user.username">
+            </PersistentString>
+            <PersistentString
+               value = "self.textfieldUserName.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.ProfileSelectorViewController.selectUser (TestApp2.ProfileSelectorViewController)(ObjectiveC.UIButton) -&gt; ():ProfileSelectorViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.CheckInViewController.tableView (TestApp2.CheckInViewController)(ObjectiveC.UITableView, numberOfRowsInSection : Swift.Int) -&gt; Swift.Int:CheckInViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arrLocations">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.ChatViewController.(fetchFriends (TestApp2.ChatViewController) -&gt; () -&gt; ()).(closure #1):ChatViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.arrayUserIds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.LocationManager.(locationManager (TestApp2.LocationManager) -&gt; (Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.CLLocationManager&gt;, didUpdateLocations : Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;Swift.AnyObject&gt;&gt;) -&gt; ()).(closure #1):LocationManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "objects">
+            </PersistentString>
+            <PersistentString
+               value = "self.locationName">
+            </PersistentString>
+            <PersistentString
+               value = "self.locationAddress">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.LocationManager.initLocationManager (TestApp2.LocationManager)() -&gt; ():LocationManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "coreLocationManager.delegate">
+            </PersistentString>
+            <PersistentString
+               value = "self.locationName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.ProfileSelectorViewController.btnPreviousClicked (TestApp2.ProfileSelectorViewController)(Swift.AnyObject) -&gt; ():ProfileSelectorViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.curIndexOfCheckin">
+            </PersistentString>
+            <PersistentString
+               value = "tempView.alpha">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.ProfileSelectorViewController.fetchMatches (TestApp2.ProfileSelectorViewController)() -&gt; ():ProfileSelectorViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "user">
+            </PersistentString>
+            <PersistentString
+               value = "user[&quot;Days&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.ProfileSelectorViewController.setUserDescriptions (TestApp2.ProfileSelectorViewController)(ObjectiveC.PFObject) -&gt; ():ProfileSelectorViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TestApp2.AddPlaceViewController1.viewWillAppear (TestApp2.AddPlaceViewController1)(Swift.Bool) -&gt; ():AddPlaceViewController1.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_mapView.userLocation">
+            </PersistentString>
+            <PersistentString
+               value = "m_mapView">
+            </PersistentString>
+            <PersistentString
+               value = "oriCoordForMap">
+            </PersistentString>
+            <PersistentString
+               value = "self.m_scrollView.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
